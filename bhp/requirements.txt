@@ -78,7 +78,7 @@ faraday-agent-parameters-types==1.0.1
 faraday-client==1.1.0
 faraday-plugins==1.5.2
 faradaysec==3.16.0
-fastapi==0.63.0
+fastapi==0.65.2
 feedparser==5.2.1
 fierce==1.4.0
 filedepot==0.5.2
