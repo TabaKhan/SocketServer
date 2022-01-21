@@ -129,7 +129,7 @@ invoke==1.4.1
 iptools==0.6.1
 ipwhois==0.15.1
 IPy==1.1
-ipython==7.20.0
+ipython==7.31.1
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jdcal==1.0
