@@ -34,7 +34,7 @@ binwalk==2.2.1
 bleach==3.3.0
 blinker==1.4
 boltons==19.1.0
-bottle==0.12.19
+bottle==0.12.20
 Bottleneck==1.2.1
 Brlapi==0.8.2
 Brotli==1.0.9
