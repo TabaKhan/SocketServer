@@ -178,7 +178,7 @@ networkx==2.5
 nplusone==1.0.0
 ntlm-auth==1.4.0
 numexpr==2.7.2
-numpy==1.19.5
+numpy==1.22.0
 odfpy==1.4.1
 olefile==0.46
 openpyxl==3.0.3
