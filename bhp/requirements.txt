@@ -215,7 +215,7 @@ py-ubjson==0.16.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.1
 pycairo==1.16.2
-pycares==3.1.1
+pycares==4.2.0
 pycparser==2.20
 pycryptodomex==3.9.7
 pycups==2.0.1
