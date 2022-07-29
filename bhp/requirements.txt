@@ -162,7 +162,7 @@ maxminddb==2.0.3
 mechanize==0.4.5
 minidump==0.0.12
 minikerberos==0.2.0
-mistune==0.8.4
+mistune==2.0.3
 mitmproxy==6.0.2
 more-itertools==4.2.0
 msgpack==1.0.0
