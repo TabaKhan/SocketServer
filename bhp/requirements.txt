@@ -60,7 +60,7 @@ dbus-python==1.2.16
 debtags==2.1
 decorator==4.4.2
 defusedxml==0.6.0
-deluge==2.0.3
+deluge==2.1.0
 deprecation==2.0.7
 dicttoxml==1.7.4
 distro==1.5.0
